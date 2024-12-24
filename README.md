@@ -2,15 +2,15 @@
 
 <p align="middle">•Completo•</p>
 
-<img align="right" alt="zallih" width="150" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157425285344534678/download20230905181423.png?ex=66ebeb8b&is=66ea9a0b&hm=a125113e1e0e5b130bd98fce76dba8edd2c83f38bd40616fb777c1f5598aa788&">
+<img align="right" alt="zallih" width="150" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157425285344534678/download20230905181423.png?ex=676c75cb&is=676b244b&hm=a8bf793e9f2bc14ddb3ec375a0a95b54ba426377fe823761731c22170543377a&">
   <br><br>
 <div style="display: inline_block"><br>
  
-  <img align="center" alt="zallih-JAVA" height="40" width="40" src="https://cdn.discordapp.com/attachments/1128416328215167096/1294763372688052296/python.png?ex=670c31db&is=670ae05b&hm=a9ec14561d2f36dd47f0372510abe9437fb0fbf38087404a647f87d94ae5560a&">
-  Linguagem utilizada: <a href="https://gamemaker.io/pt-BR">Python</a><br><br>
+  <img align="center" alt="zallih-ptn" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
+  Linguagem utilizada: <a href="https://www.python.org/">Python</a><br><br>
 ━━━━━━ • ✿ • ━━━━━━
 
-<img src="https://cdn.discordapp.com/attachments/1128416328215167096/1294762671018868807/foto.png?ex=670c3134&is=670adfb4&hm=5383167c7aca0fb4b5b4781496e6d39a140160e90c7c9c509141686adda1d426&">
+<img src="https://cdn.discordapp.com/attachments/1128416328215167096/1294762671018868807/foto.png?ex=676c6eb4&is=676b1d34&hm=9c8ad9634efc62fc03b46b9c34f9d7cd13c914f12174728e455894f6a1bc6dd9&">
  
 
 </div>
