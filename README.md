@@ -2,7 +2,7 @@
 
 <p align="middle">•Completo•</p>
 
-<img align="right" alt="zallih" width="150" src="https://cdn.discordapp.com/attachments/1128416328215167096/1157425285344534678/download20230905181423.png?ex=676c75cb&is=676b244b&hm=a8bf793e9f2bc14ddb3ec375a0a95b54ba426377fe823761731c22170543377a&">
+<img align="right" alt="zallih" width="150" src="https://cdn.discordapp.com/attachments/1128416328215167096/1321231581771468862/download20241200235357.png?ex=67a08f8c&is=679f3e0c&hm=d695ef3faff4a5d109ae6689e871a260d6a40237fb3f2cb655b1b5970cfa7d10&">
   <br><br>
 <div style="display: inline_block"><br>
  
@@ -10,7 +10,7 @@
   Linguagem utilizada: <a href="https://www.python.org/">Python</a><br><br>
 ━━━━━━ • ✿ • ━━━━━━
 
-<img src="https://cdn.discordapp.com/attachments/1128416328215167096/1294762671018868807/foto.png?ex=676c6eb4&is=676b1d34&hm=9c8ad9634efc62fc03b46b9c34f9d7cd13c914f12174728e455894f6a1bc6dd9&">
+<img src="https://cdn.discordapp.com/attachments/1128416328215167096/1294762671018868807/foto.png?ex=67a081f4&is=679f3074&hm=7c90aec85b17d9f1e8a978bf954cf7f4992ea777721e2aa929e3d9faeb521211&">
  
 
 </div>
